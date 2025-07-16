@@ -1,5 +1,4 @@
-# tws
-<!DOCTYPE html><html lang="en" class="dark">
+
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -102,4 +101,3 @@
   </section>  <!-- Footer -->  <footer class="text-center text-xs py-6 border-t border-cyan-400 max-w-md mx-auto">
     &copy; 2025 Kenzo — Designed with ⚡ cyber spirit
   </footer>  <script>AOS.init();</script></body>
-</html>
